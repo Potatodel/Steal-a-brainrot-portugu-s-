@@ -168,7 +168,7 @@ AbaDiscord:AddDiscordInvite({
     Name = "Zeta Hub",
     Description = "Junte-se à nossa comunidade",
     Logo = "rbxassetid://88800066762467",
-    Invite = "https://discord.gg/pzrtAEDBbt"
+    Invite = "https://discord.gg/bTZtdUjxdB"
 })
 
 -- Aba Segurança
